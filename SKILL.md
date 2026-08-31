@@ -490,7 +490,7 @@ python "<技能目录>/scripts/liunian_14biao.py"
 
 | 赞赏码 | 盘叔微信 |
 |:---:|:---:|
-| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
+| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/tieban-shenshu-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/tieban-shenshu-skillpack/main/wechat_qr.jpg) |
 
 ---
 ```
@@ -545,7 +545,7 @@ python "<技能目录>/scripts/liunian_14biao.py"
 
 | 赞赏码 | 盘叔微信 |
 |:---:|:---:|
-| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
+| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/tieban-shenshu-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/tieban-shenshu-skillpack/main/wechat_qr.jpg) |
 
 公众号：【野生你盘叔】 出品
 ---
