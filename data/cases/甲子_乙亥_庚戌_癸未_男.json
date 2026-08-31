@@ -1,0 +1,19 @@
+{
+  "ground_truth": {
+    "父母": "父已故母健在",
+    "兄弟": "一姐",
+    "婚姻": "已婚",
+    "子女": "三女",
+    "性情": "温和",
+    "健康": "无明显伤病"
+  },
+  "offsets": {},
+  "kaoke_facts": {
+    "fu_sang": true,
+    "mu_sang": false,
+    "brothers_n": 1,
+    "wife_alive": true,
+    "child_sex": "女",
+    "child_count": 3
+  }
+}

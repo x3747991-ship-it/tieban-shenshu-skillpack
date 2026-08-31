@@ -1,0 +1,19 @@
+{
+  "ground_truth": {
+    "父母": "父母双全",
+    "兄弟": "两姐",
+    "婚姻": "未婚",
+    "子女": "无子女",
+    "性情": "温和",
+    "健康": "无大病"
+  },
+  "offsets": {},
+  "kaoke_facts": {
+    "fu_sang": false,
+    "mu_sang": false,
+    "brothers_n": 2,
+    "wife_alive": false,
+    "sons_n": 0,
+    "daughters_n": 0
+  }
+}
